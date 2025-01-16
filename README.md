@@ -2,7 +2,7 @@
 Source Code Review resources for Application Security. 
 
 
-✍ ## Blogs
+## ✍ Blogs
  
 - https://medium.com/@jigishchawda/code-review-for-interviews-this-is-how-i-have-been-doing-it-f9a8882cbb44
 - https://owasp.org/www-project-code-review-guide/
