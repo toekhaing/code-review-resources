@@ -19,6 +19,6 @@ Source Code Review resources for Application Security.
 ## 📢 Talks/Powerpoint slides
 
 ## ▶️ Videos
-- [Improving your secure code review skills - Series](https://www.youtube.com/watch?v=zK3rQZKBbao&list=PLX4zycADv4BfavtEWSMLh-6gTOgG3LTm- "Youtube Playlists"). 
+- [Improving your secure code review skills - Series](https://www.youtube.com/watch?v=zK3rQZKBbao&list=PLX4zycADv4BfavtEWSMLh-6gTOgG3LTm- "Youtube Playlists") 
 - [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ "Youtube")
-- [How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM "Youtube").
+- [How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM "Youtube")
