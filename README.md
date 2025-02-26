@@ -22,8 +22,7 @@ Source Code Review resources for Application Security.
 - [PentesterLab](https://pentesterlab.com/exercises/codereview)
 - [SourceIncite](https://srcincite.io/training/)
 - [OffSec Web300](https://www.offsec.com/courses/web-300/)
-- [OWASP SecureCodingDojo](https://owasp.org/SecureCodingDojo/codereview101/
-)
+- [OWASP SecureCodingDojo](https://owasp.org/SecureCodingDojo/codereview101/)
 
 ## 📢 Talks/Slides/Papers
 - https://info.veracode.com/secure-coding-best-practices-hand-book-guide-resource.html
