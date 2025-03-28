@@ -13,11 +13,11 @@ Source Code Review resources for Application Security.
 - https://github.com/247arjun/ai-secure-code-review
 
 ## 📚 Books
-- [OWASP Code Review Guide v2] (https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf)
-- [Pull Requests and Code Review] (https://scastiel.gumroad.com/l/pull-requests-code-review)
-- [What to Look for in a Code Review] (https://leanpub.com/whattolookforinacodereview)
-- [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities] (https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
-- [Best Kept Secrets of Peer Code Review: Modern Approach. Practical Advice.] (https://www.amazon.com/Best-Kept-Secrets-Peer-Review/dp/1599160676)
+- [OWASP Code Review Guide v2](https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf)
+- [Pull Requests and Code Review](https://scastiel.gumroad.com/l/pull-requests-code-review)
+- [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)
+- [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
+- [Best Kept Secrets of Peer Code Review: Modern Approach. Practical Advice.](https://www.amazon.com/Best-Kept-Secrets-Peer-Review/dp/1599160676)
 
 ## 🎓 Courses & Trainings
 - [PentesterLab](https://pentesterlab.com/exercises/codereview)
