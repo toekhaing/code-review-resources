@@ -4,6 +4,7 @@ Source Code Review resources for Application Security.
 
 ## 🌐 Blogs
  
+- https://kathan19.gitbook.io/howtohunt/web-page-source-code-review/codereviewtips
 - https://medium.com/@jigishchawda/code-review-for-interviews-this-is-how-i-have-been-doing-it-f9a8882cbb44
 - https://haymiz.dev/security/2024/02/19/code-review-like-a-pro/
 - https://owasp.org/www-project-code-review-guide/
