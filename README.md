@@ -12,6 +12,7 @@ Source Code Review resources for Application Security.
 - https://www.reddit.com/r/cybersecurity/comments/11uyjmt/resources_to_learn_code_reviews_for_finding/?rdt=64377
 - https://absoluteappsec.com/blog/Secure-Code-Review/
 - https://github.com/247arjun/ai-secure-code-review
+- https://medium.com/@dub-flow/how-to-get-started-with-secure-code-review-89bcf2eb7ec4
 
 ## 📚 Books
 - [OWASP Code Review Guide v2](https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf)
